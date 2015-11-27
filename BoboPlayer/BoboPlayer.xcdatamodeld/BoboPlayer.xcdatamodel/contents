@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="14F1021" minimumToolsVersion="Automatic">
+    <entity name="SongData" representedClassName="SongData" syncable="YES">
+        <attribute name="albumId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="albumName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCollect" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="numList" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="singerId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="singerName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SongData" positionX="-63" positionY="-18" width="128" height="180"/>
+    </elements>
+</model>
